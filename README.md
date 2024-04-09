@@ -11,7 +11,7 @@
 1. Clone this repository to your local machine using:
 
 ```
-git clone https://github.com/cupoglee/T-BOLT.git
+git clone https://github.com/talesoverfables/T-BOLT.git
 ```
 2. Navigate to the project directory:
 
