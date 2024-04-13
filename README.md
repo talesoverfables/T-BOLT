@@ -42,16 +42,6 @@ Annotated images using cvat.
 ## YOLOv9 Bottleneck Detection with Traffic Custom Data
 This repository contains code for training and testing YOLOv9 object detection models with custom data.
 
-## Requirements
-Python 3.7+
-PyTorch 1.7.0+
-CUDA 11.0+
-OpenCV
-scikit-image
-tqdm
-scipy
-numpy
-
 ## Setup
 1. Clone this repository:
    ```bash
@@ -131,10 +121,6 @@ numpy
 
 https://github.com/talesoverfables/T-BOLT/assets/166482014/b6e7526b-f381-46fd-aff0-549fef85edd4
 
-
-
-
-    
 
     
 ## More information about the project
