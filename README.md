@@ -16,7 +16,8 @@ git clone https://github.com/talesoverfables/T-BOLT.git
 2. Navigate to the project directory:
 
 ```C
-cd T-BOLT
+cd
+T-BOLT
 ```
 3. Create Environment:
 ```
