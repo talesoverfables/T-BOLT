@@ -27,7 +27,7 @@ pip install -r requirements.txt
 streamlit run Homepage.py
 ```
 5. To work with the AR, hold the below given marker to the camera.
-<img width="50" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/marker.jpg">
+<img width="120" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/marker.jpg">
 ## Architechture
 <img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/TBOLT-%20Architechture.png">
 
