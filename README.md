@@ -108,6 +108,7 @@ This repository contains code for training and testing YOLOv9 object detection m
 ## Training data
 ![WhatsApp Image 2024-04-13 at 14 31 01_29a396ea](https://github.com/talesoverfables/T-BOLT/assets/166482014/f2528488-5219-431e-80a5-cfe83321564b)
 ![WhatsApp Image 2024-04-13 at 14 35 13_36a958a2](https://github.com/talesoverfables/T-BOLT/assets/166482014/dd1ca622-7495-4d04-8d15-2a72960b4a73)
+<img width="50" alt="50" src="https://github.com/talesoverfables/T-BOLT/assets/166482014/f2528488-5219-431e-80a5-cfe83321564b">
 
 
 
