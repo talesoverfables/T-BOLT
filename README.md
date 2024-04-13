@@ -23,7 +23,7 @@ cd T-BOLT
 pip install -r requirements.txt
 ```
 4. Clone this repository using `git clone` and deploy using the command:
-```
+```bash
 streamlit run Homepage.py
 ```
 
