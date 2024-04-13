@@ -28,6 +28,7 @@ streamlit run Homepage.py
 ```
 5. To work with the AR, hold the below given marker to the camera.
 <img width="200" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/marker.jpg">
+
 ## Architechture
 <img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/TBOLT-%20Architechture.png">
 
@@ -38,7 +39,6 @@ streamlit run Homepage.py
 ##### Annotated images using cvat.
 
 <img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/annotate.png">
-
 
 ## YOLOv9 Bottleneck Detection with Traffic Custom Data
 ##### This repository contains code for training and testing YOLOv9 object detection models with custom data.
