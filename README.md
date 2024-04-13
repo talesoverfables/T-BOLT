@@ -27,10 +27,11 @@ pip install -r requirements.txt
 streamlit run Homepage.py
 ```
 
-## Homepage
+## Architechture
 <img width="960" alt="101" src="https://github.com/cupoglee/T-BOLT/assets/138140448/27240549-476e-4cfd-a240-e81a97f57b6d">
 
-## Architechture
+## Homepage
+
 ## More information about the project
 ## About us
 
