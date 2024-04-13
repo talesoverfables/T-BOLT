@@ -38,3 +38,4 @@ Refer to [Our project Pitch](https://docs.google.com/presentation/d/1SfAv4E1dG_O
 
 ## About us
 We are Team Omega Cyborgs, four highly motivated and technologically-driven first-year engineering students who like solving problems using tech and its branches.
+#SheCodes
