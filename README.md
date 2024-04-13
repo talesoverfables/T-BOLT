@@ -36,7 +36,8 @@ streamlit run Homepage.py
 
 ## Annotation
 Annotated images using cvat.
-![image](https://github.com/talesoverfables/T-BOLT/assets/166482014/78c025c3-08d8-493c-97f8-23c98214faeb)
+<img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/annotate.png">
+
 
 ## YOLOv9 Bottleneck Detection with Traffic Custom Data
 This repository contains code for training and testing YOLOv9 object detection models with custom data.
