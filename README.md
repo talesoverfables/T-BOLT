@@ -22,7 +22,7 @@ cd T-BOLT
 ```
 conda create -n "myenv" python=3.10.0
 ```
-4. Install the required dependencies using pip:
+4. Install the required dependencies from `requirements.txt` using pip:
 ```
 pip install -r requirements.txt
 ```
