@@ -31,7 +31,7 @@ streamlit run Homepage.py
 <img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/TBOLT-%20Architechture.png">
 
 ## Homepage
-
+<img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/Homepage-101.png">
 ## More information about the project
 ## About us
 
