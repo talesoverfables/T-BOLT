@@ -35,7 +35,8 @@ streamlit run Homepage.py
 <img width="900" alt="101" src="https://github.com/talesoverfables/T-BOLT/blob/main/Homepage-101.png">
 
 ## Annotation
-Annotated images using cvat.
+##### Annotated images using cvat.
+
 <img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/annotate.png">
 
 
