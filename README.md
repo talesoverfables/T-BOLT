@@ -28,7 +28,7 @@ streamlit run Homepage.py
 ```
 
 ## Architechture
-<img width="960" alt="101" src="https://github.com/cupoglee/T-BOLT/assets/138140448/27240549-476e-4cfd-a240-e81a97f57b6d">
+<img width="960" alt="101" src="https://github.com/talesoverfables/T-BOLT/blob/main/TBOLT-%20Architechture.png">
 
 ## Homepage
 
