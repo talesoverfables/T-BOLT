@@ -41,7 +41,7 @@ streamlit run Homepage.py
 
 
 ## YOLOv9 Bottleneck Detection with Traffic Custom Data
-This repository contains code for training and testing YOLOv9 object detection models with custom data.
+##### This repository contains code for training and testing YOLOv9 object detection models with custom data.
 
 ## Validation data
 ![WhatsApp Image 2024-04-13 at 21 26 23_df466136](https://github.com/talesoverfables/T-BOLT/assets/166482014/c981b40b-3f68-4447-8ff3-ddf3b77154f3)
