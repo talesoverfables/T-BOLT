@@ -19,7 +19,7 @@ git clone https://github.com/talesoverfables/T-BOLT.git
 cd T-BOLT
 ```
 3. Create Environment:
-```
+```C
 conda create -n "myenv" python=3.10.0
 ```
 4. Install the required dependencies from `requirements.txt` using pip:
