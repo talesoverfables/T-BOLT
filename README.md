@@ -10,7 +10,7 @@
 ## Installation
 1. Clone this repository to your local machine using:
 
-```
+```bash
 git clone https://github.com/talesoverfables/T-BOLT.git
 ```
 2. Navigate to the project directory:
