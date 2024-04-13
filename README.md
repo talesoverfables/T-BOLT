@@ -18,15 +18,11 @@ git clone https://github.com/talesoverfables/T-BOLT.git
 ```bash
 cd T-BOLT
 ```
-3. Create Environment:
-```bash
-conda create -n "myenv" python=3.10.0
-```
-4. Install the required dependencies from `requirements.txt` using pip:
+3. Install the required dependencies from `requirements.txt` using pip:
 ```
 pip install -r requirements.txt
 ```
-5. Clone this repository using `git clone` and deploy using the command:
+4. Clone this repository using `git clone` and deploy using the command:
 ```
 streamlit run Homepage.py
 ```
