@@ -26,7 +26,10 @@ conda create -n "myenv" python=3.10.0
 ```
 pip install -r requirements.txt
 ```
-Open http://localhost:8501 with your browser to see the result.
+5. Clone this repository using `git clone` and deploy using the command:
+```
+streamlit run Homepage.py
+```
 
 ## Interface
 <img width="960" alt="101" src="https://github.com/cupoglee/T-BOLT/assets/138140448/27240549-476e-4cfd-a240-e81a97f57b6d">
