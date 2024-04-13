@@ -31,7 +31,7 @@ with st.container():
         st.write("""Imagine a police officer wearing an AR headset or using a smartphone or tablet with AR capabilities. As the officer walks or drives through the city, this
     Web-app displays real-time information about traffic congestion, parking issues, encroachment of roads and footpaths, and poor road conditions. The
     AR experience is overlaid on the real world, allowing the officer to see the actual environment with additional valuable information.""")
-        st.write("[Learn More >](https://docs.google.com/presentation/d/1SfAv4E1dG_Os59Px8zseLoBFlciG5gAL7fWOfxQ8Lw8/edit#slide=id.g2cbb5c5073d_0_16)")
+        st.write("[Learn More >](https://docs.google.com/presentation/d/1SfAv4E1dG_Os59Px8zseLoBFlciG5gAL7fWOfxQ8Lw8/edit#slide=id.g26a99bbe636_1_45)")
         #st.image(img_contact_form, width=200, channels = "RGB")
     with right_column:
        # st.title("Welcome to T-BOLT : Traffic Bottleneck Out-tracing Logical Tech-Assistant!")
@@ -39,8 +39,8 @@ with st.container():
 
 with st.container():
     st.write("---")
-    st.header("The locations we have worked on")
-    st.write("##")
+    st.header("THE LOCATIONS CONSIDERED:")
+   # st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
         st.write("\n")

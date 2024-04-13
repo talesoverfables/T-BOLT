@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.set_page_config(page_title = "Bottleneck Notifications", page_icon = ":computer:", layout = "wide")
 def main():
    st.title("Bottleneck Notifications")
 
@@ -24,8 +24,8 @@ def main():
    contact_number = "+919945395632"  # Replace with the actual phone number
 
 # Create a button to make the call
-   if st.button("Call Contact"):
-       st.write(f"Calling {contact_number}...")  
+   #if st.button("Call Contact"):
+       #st.write(f"Calling {contact_number}...")  
    
    if st.checkbox('Resolve all the Reports'):
       st.write('Resolved!')

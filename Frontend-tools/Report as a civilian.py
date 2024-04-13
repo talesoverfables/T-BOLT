@@ -1,6 +1,6 @@
 import streamlit as st
 import sqlite3
-
+st.set_page_config(page_title = "Civilian Reports", page_icon = ":computer:", layout = "wide")
 # Function to create database table if not exists
 def create_table():
     conn = sqlite3.connect('reports.db')
