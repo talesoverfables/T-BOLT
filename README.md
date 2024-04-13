@@ -42,12 +42,6 @@ Annotated images using cvat.
 ## YOLOv9 Bottleneck Detection with Traffic Custom Data
 This repository contains code for training and testing YOLOv9 object detection models with custom data.
 
-
-## Training data
-![WhatsApp Image 2024-04-13 at 14 31 01_29a396ea](https://github.com/talesoverfables/T-BOLT/assets/166482014/f2528488-5219-431e-80a5-cfe83321564b)
-![WhatsApp Image 2024-04-13 at 14 35 13_36a958a2](https://github.com/talesoverfables/T-BOLT/assets/166482014/dd1ca622-7495-4d04-8d15-2a72960b4a73)
-<img width="50" alt="50" src="https://github.com/talesoverfables/T-BOLT/assets/166482014/f2528488-5219-431e-80a5-cfe83321564b">
-
 ## Validation data
 ![WhatsApp Image 2024-04-13 at 21 26 23_df466136](https://github.com/talesoverfables/T-BOLT/assets/166482014/c981b40b-3f68-4447-8ff3-ddf3b77154f3)
 
