@@ -1,46 +1,57 @@
-# AR Cam
+# T-BOLT : Traffic Bottleneck Out-tracing Logical Tech-Assistant!
+<br>Imagine a police officer wearing an AR headset or using a smartphone or tablet with AR capabilities. As the officer walks or drives through the city, the webapp displays real-time information about traffic congestion, parking issues, encroachment of roads and footpaths, and poor road conditions. The AR experience is overlaid on the real world, allowing the officer to see the actual environment with additional valuable information.</br>
+## Project Highlights
+- Augmented Reality Visual Cues of every bottleneck.
+- WebApp with multiple webpages that indicate - Civilian Reports of bottlenecks, Accidents bottlenecks, alerts.
+- Integration with Maps for easier nagivation by Police Personnel.
+- Pre-trained AI model for traffic and road condition detection.
+<br></br>
 
-A marker based augmented reality camera app for the web. Powered by [AR.js](https://github.com/AR-js-org/AR.js). Fast, light-weight and works on any mobile/desktop browser with [WebGL](https://get.webgl.org/) and [WebRTC](https://webrtc.org/).
+## Installation
+1. Clone this repository to your local machine using:
 
-![T-BOLT-AR](https://cdn.glitch.me/2727c60d-eee0-4bf9-bfe3-c60892e0118d/ar-vid.gif?v=1713072149068)
+```bash
+git clone https://github.com/talesoverfables/T-BOLT.git
+```
+2. Navigate to the project directory:
 
-- Monitor any traffic junction with ease by scanning the marker, ANYPLACE & ANYTIME!
-- Snap and save pictures to work with convenience.
-- Tested in Chrome and Safari.
+```bash
+cd T-BOLT
+```
+3. Install the required dependencies from `requirements.txt` using pip:
+```
+pip install -r requirements.txt
+```
+4. Clone this repository using `git clone` and deploy using the command:
+```bash
+streamlit run Homepage.py
+```
+5. To work with the AR, hold the below given marker to the camera.
+<img width="200" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/marker.jpg">
 
-## How it works
+## Architechture
+<img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/TBOLT-%20Architechture.png">
 
-- The link for video of bottleneck detection of a particular traffic junction is linked using `a-entity` tag in `index.html`. [Learn more](https://ar-js-org.github.io/AR.js-Docs/marker-based/#a-frame).
-- By default the marker is preset to the [hiro marker](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/hiro.png). To create a custom marker for each location,
-  - [this tool](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) can be used to create your custom marker.
-  - Export the `.patt` file and place it in `/assets/custom-markers/`.
-  - Link it using `a-marker` tag in `index.html`. [Learn more](https://ar-js-org.github.io/AR.js-Docs/marker-based/#a-frame).
-  - You may follow [this article](https://ar-js-org.github.io/AR.js-Docs/marker-based/#how-to-choose-good-images-for-pattern-markers) to create an effective custom marker.
-- Fire up the app and point it to the marker. Default hiro marker can be found [here](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/hiro.png).
-- Translate, rotate or zoom the model as desired and snap a pic!
+## Homepage
+<img width="900" alt="101" src="https://github.com/talesoverfables/T-BOLT/blob/main/Homepage-101.png">
 
-## Dependencies
+## Annotation
+##### Annotated images using cvat.
 
-| Dependency | Purpose                         |
-| ---------- | ------------------------------- |
-| AR.js      | Implements AR on the web.       |
-| A-Frame    | Renders augmented content.      |
-| three.js   | Renders augmented content.      |
-| ZingTouch  | Gesture controls for the model. |
+<img width="500" alt="50" src="https://github.com/talesoverfables/T-BOLT/blob/main/annotate.png">
 
-## Always deploy under https
+## YOLOv9 Bottleneck Detection with Traffic Custom Data
+##### This repository contains code for training and testing YOLOv9 object detection models with custom data.
 
-All AR.js web apps in general, have to be run on a server. You can use local server or deploy the static web app on the web. Might run into permission errors in http. So don't forget to always run your examples on secure connections servers or localhost. Github Pages is a great way to have free and live websites under https.
+## Validation data
+![WhatsApp Image 2024-04-13 at 21 26 23_df466136](https://github.com/talesoverfables/T-BOLT/assets/166482014/c981b40b-3f68-4447-8ff3-ddf3b77154f3)
 
-## AR: Demo
+## Results
+https://github.com/talesoverfables/T-BOLT/assets/166482014/b6e7526b-f381-46fd-aff0-549fef85edd4
+    
+## More information about the project
+Refer to [Our project Pitch](https://docs.google.com/presentation/d/1SfAv4E1dG_Os59Px8zseLoBFlciG5gAL7fWOfxQ8Lw8/edit#slide=id.g2cbb5c5073d_0_16)
 
-Checkout a live deployment [here](https://divinsmathew.github.io/ar-cam/). Use the [hiro marker](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/hiro.png) to see a puppy!
-
-## Scope
-
-Scope of improvement includes:
-
-- Ability to record video.
-- Advanced gesture controls.
-- Improved antialiasing of snaps.
-- Suppport for portrait mode.
+## About us
+We are Team Omega Cyborgs, four highly motivated and technologically-driven first-year engineering students who like solving problems using tech and its branches.
+#SheCanCode
