@@ -50,7 +50,7 @@ streamlit run Homepage.py
 https://github.com/talesoverfables/T-BOLT/assets/166482014/b6e7526b-f381-46fd-aff0-549fef85edd4
     
 ## More information about the project
-Refer to [Our project Pitch](https://docs.google.com/presentation/d/1SfAv4E1dG_Os59Px8zseLoBFlciG5gAL7fWOfxQ8Lw8/edit#slide=id.g2cbb5c5073d_0_16)
+Refer to [Our project Pitch](https://docs.google.com/presentation/d/1SfAv4E1dG_Os59Px8zseLoBFlciG5gAL7fWOfxQ8Lw8/edit?usp=sharing)
 
 ## About us
 We are Team Omega Cyborgs, four highly motivated and technologically-driven first-year engineering students who like solving problems using tech and its branches.
